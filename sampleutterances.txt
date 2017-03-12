@@ -1,0 +1,14 @@
+WhatsMyFood what did I eat today
+WhatsMyFood what's my meal
+WhatsMyFood what is my meal
+WhatsMyFood my meal
+WhatsMyFood get my meals
+WhatsMyFood give me my meals
+WhatsMyFood what my meal is
+WhatsMyFood yes
+WhatsMyFood yup
+WhatsMyFood sure
+WhatsMyFood yes please
+MyFood I ate a {Food} {Date}
+MyFood I ate an {Food} {Date}
+MyFood I ate some {Food} {Date}
