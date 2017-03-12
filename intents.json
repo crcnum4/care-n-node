@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "MyFood",
+      "slots": [
+        {
+          "name": "Food",
+          "type": "AMAZON.Food"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.Date"
+        }
+      ]
+    },
+    {
+      "intent": "WhatsMyFood"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
